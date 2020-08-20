@@ -2,8 +2,11 @@
   <v-app>
     <v-navigation-drawer app>
       <p>navigattion drawer</p>
+      <v-btn depressed small color="primary">หน้าหลัก</v-btn><br>
+      <v-btn small>ข้อมูลส่วนตัว</v-btn>
+      
     </v-navigation-drawer>
-
+ 
     <v-app-bar app>
       <p>appbar</p>
     </v-app-bar>
