@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
-    <h1>เกี่ยวกับเรา</h1>
-  </div>
+<v-container>
+  เกี่ยวกับเรา
+</v-container>
 </template>
