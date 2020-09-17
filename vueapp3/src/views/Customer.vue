@@ -170,7 +170,7 @@
 <script>
 export default {
   data: () => ({
-    valid: true,
+    valid: false,
     name: "",
     lastname :" ",
     nameRules: [
